@@ -3,6 +3,8 @@ Send sms to over a 200 countries worldwide using the freebulksmsonline.com API
 It works with different programming languages
 Up to 5 free SMS Daily
 
+Example code is provided bulksms.php
+
 Send Message via API
 
 API Endpoint
