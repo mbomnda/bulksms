@@ -1,6 +1,8 @@
 # bulksms
 Send sms to over a 200 countries worldwide using the freebulksmsonline.com API
-It works with different programming languages
+It works with different programming languages.
+Supportd Chinese Characters
+
 Up to 5 free SMS Daily
 
 Example code is provided bulksms.php
